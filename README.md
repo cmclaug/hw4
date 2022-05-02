@@ -10,10 +10,13 @@ Learning about databases and how they are connected was confusing to me. Joseph 
 
 What design methods might you want to try again in the future on another project?
 
+I defintly think that the more planning and organization there is, the easier it is to complete a project. I think outlining everyone's jobs helped us work efficently.
 
 Implementation
 
 What was most helpful about implementing, testing, and integration in your bot project?
+
+Working together in person was very helpful and made testing flow very quickly.
 
 What was most difficult? What would you do differently?
 
